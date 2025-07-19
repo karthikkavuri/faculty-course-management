@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "first_name": "Sunita",
+    "last_name": "Rao",
+    "email": "sunita.rao@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["VLSI Design", "Machine Learning", "Digital Circuits"],
+    "office_location": "AA-101",
+    "office_hours": "9-11am Tue"
+  },
+  {
+    "id": 2,
+    "first_name": "Rakesh",
+    "last_name": "Nair",
+    "email": "rakesh.nair@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Artificial Intelligence", "Cloud Computing", "Cybersecurity"],
+    "office_location": "AA-102",
+    "office_hours": "2-4pm Wed"
+  },
+  {
+    "id": 3,
+    "first_name": "Priyanka",
+    "last_name": "Sharma",
+    "email": "priyanka.sharma@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Signal Processing", "IoT Applications"],
+    "office_location": "BB-201",
+    "office_hours": "10-12am Mon"
+  },
+  {
+    "id": 4,
+    "first_name": "Amit",
+    "last_name": "Gupta",
+    "email": "amit.gupta@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Wireless Communication", "Embedded Systems", "Digital VLSI"],
+    "office_location": "BB-202",
+    "office_hours": "1-3pm Thu"
+  },
+  {
+    "id": 5,
+    "first_name": "Meena",
+    "last_name": "Joshi",
+    "email": "meena.joshi@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Thermal Engineering", "Manufacturing Processes"],
+    "office_location": "CC-301",
+    "office_hours": "11-1pm Fri"
+  },
+  {
+    "id": 6,
+    "first_name": "Karthik",
+    "last_name": "Venkatesh",
+    "email": "karthik.venkatesh@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Robotics", "Mechatronics"],
+    "office_location": "CC-302",
+    "office_hours": "3-5pm Mon"
+  },
+  {
+    "id": 7,
+    "first_name": "Anjali",
+    "last_name": "Mishra",
+    "email": "anjali.mishra@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Data Science", "Big Data Analytics", "Machine Learning"],
+    "office_location": "AA-103",
+    "office_hours": "1-3pm Tue"
+  },
+  {
+    "id": 8,
+    "first_name": "Rajesh",
+    "last_name": "Verma",
+    "email": "rajesh.verma@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Operating Systems", "Computer Networks"],
+    "office_location": "AA-104",
+    "office_hours": "2-4pm Fri"
+  },
+  {
+    "id": 9,
+    "first_name": "Neha",
+    "last_name": "Kapur",
+    "email": "neha.kapur@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["VLSI Design", "FPGA Systems"],
+    "office_location": "BB-203",
+    "office_hours": "11-1pm Thu"
+  },
+  {
+    "id": 10,
+    "first_name": "Suresh",
+    "last_name": "Reddy",
+    "email": "suresh.reddy@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Microelectronics", "Analog Circuit Design"],
+    "office_location": "BB-204",
+    "office_hours": "10-12am Wed"
+  },
+  {
+    "id": 11,
+    "first_name": "Lakshmi",
+    "last_name": "Iyer",
+    "email": "lakshmi.iyer@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["CAD/CAM", "Automobile Engineering"],
+    "office_location": "CC-303",
+    "office_hours": "9-11am Thu"
+  },
+  {
+    "id": 12,
+    "first_name": "Arun",
+    "last_name": "Patel",
+    "email": "arun.patel@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Finite Element Analysis", "Material Science"],
+    "office_location": "CC-304",
+    "office_hours": "3-5pm Wed"
+  },
+  {
+    "id": 13,
+    "first_name": "Divya",
+    "last_name": "Singh",
+    "email": "divya.singh@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Blockchain", "Cryptography"],
+    "office_location": "AA-105",
+    "office_hours": "10-12am Thu"
+  },
+  {
+    "id": 14,
+    "first_name": "Naveen",
+    "last_name": "Chaudhary",
+    "email": "naveen.chaudhary@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Compiler Design", "Programming Languages"],
+    "office_location": "AA-106",
+    "office_hours": "11-1pm Mon"
+  },
+  {
+    "id": 15,
+    "first_name": "Ritika",
+    "last_name": "Saxena",
+    "email": "ritika.saxena@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Digital Communication", "5G Networks"],
+    "office_location": "BB-205",
+    "office_hours": "3-5pm Tue"
+  },
+  {
+    "id": 16,
+    "first_name": "Ashok",
+    "last_name": "Deshmukh",
+    "email": "ashok.deshmukh@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Nanoelectronics", "Sensors Technology"],
+    "office_location": "BB-206",
+    "office_hours": "1-3pm Mon"
+  },
+  {
+    "id": 17,
+    "first_name": "Vandana",
+    "last_name": "Menon",
+    "email": "vandana.menon@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Heat Transfer", "Energy Systems"],
+    "office_location": "CC-305",
+    "office_hours": "2-4pm Mon"
+  },
+  {
+    "id": 18,
+    "first_name": "Rohit",
+    "last_name": "Kulkarni",
+    "email": "rohit.kulkarni@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Industrial Engineering", "Production Planning"],
+    "office_location": "CC-306",
+    "office_hours": "9-11am Wed"
+  },
+  {
+    "id": 19,
+    "first_name": "Shweta",
+    "last_name": "Bhatt",
+    "email": "shweta.bhatt@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["AI Ethics", "Neural Networks"],
+    "office_location": "AA-107",
+    "office_hours": "1-3pm Wed"
+  },
+  {
+    "id": 20,
+    "first_name": "Harish",
+    "last_name": "Bansal",
+    "email": "harish.bansal@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Full-Stack Development", "Cloud Platforms"],
+    "office_location": "AA-108",
+    "office_hours": "10-12am Tue"
+  },
+
+  {
+    "id": 21,
+    "first_name": "Sneha",
+    "last_name": "Raman",
+    "email": "sneha.raman@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["IoT Systems", "Smart Devices"],
+    "office_location": "BB-207",
+    "office_hours": "2-4pm Thu"
+  },
+  {
+    "id": 22,
+    "first_name": "Anup",
+    "last_name": "Mishra",
+    "email": "anup.mishra@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Radar Systems", "Antenna Design"],
+    "office_location": "BB-208",
+    "office_hours": "9-11am Mon"
+  },
+  {
+    "id": 23,
+    "first_name": "Rina",
+    "last_name": "Sen",
+    "email": "rina.sen@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["3D Printing", "Product Design"],
+    "office_location": "CC-307",
+    "office_hours": "11-1pm Tue"
+  },
+  {
+    "id": 24,
+    "first_name": "Vinay",
+    "last_name": "Kumar",
+    "email": "vinay.kumar@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Material Science", "Additive Manufacturing"],
+    "office_location": "CC-308",
+    "office_hours": "3-5pm Fri"
+  },
+  {
+    "id": 25,
+    "first_name": "Kiran",
+    "last_name": "Raj",
+    "email": "kiran.raj@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Deep Learning", "Computer Vision"],
+    "office_location": "AA-109",
+    "office_hours": "1-3pm Mon"
+  },
+  {
+    "id": 26,
+    "first_name": "Tanya",
+    "last_name": "Arora",
+    "email": "tanya.arora@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Data Mining", "Natural Language Processing"],
+    "office_location": "AA-110",
+    "office_hours": "11-1pm Fri"
+  },
+  {
+    "id": 27,
+    "first_name": "Varun",
+    "last_name": "Menon",
+    "email": "varun.menon@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Digital IC Design", "FPGA Architecture"],
+    "office_location": "BB-209",
+    "office_hours": "10-12am Thu"
+  },
+  {
+    "id": 28,
+    "first_name": "Seema",
+    "last_name": "Pillai",
+    "email": "seema.pillai@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Embedded Linux", "Hardware Security"],
+    "office_location": "BB-210",
+    "office_hours": "3-5pm Tue"
+  },
+  {
+    "id": 29,
+    "first_name": "Nikhil",
+    "last_name": "Rao",
+    "email": "nikhil.rao@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Kinematics", "Structural Design"],
+    "office_location": "CC-309",
+    "office_hours": "1-3pm Thu"
+  },
+  {
+    "id": 30,
+    "first_name": "Rekha",
+    "last_name": "Shukla",
+    "email": "rekha.shukla@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Fluid Dynamics", "Thermal Systems"],
+    "office_location": "CC-310",
+    "office_hours": "9-11am Fri"
+  },
+
+  {
+    "id": 31,
+    "first_name": "Manoj",
+    "last_name": "Saxena",
+    "email": "manoj.saxena@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Cloud Infrastructure", "System Security"],
+    "office_location": "AA-111",
+    "office_hours": "2-4pm Wed"
+  },
+  {
+    "id": 32,
+    "first_name": "Bhavana",
+    "last_name": "Krishnan",
+    "email": "bhavana.krishnan@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Web Technologies", "Frontend & Backend Systems"],
+    "office_location": "AA-112",
+    "office_hours": "10-12am Mon"
+  },
+  {
+    "id": 33,
+    "first_name": "Anurag",
+    "last_name": "Dutta",
+    "email": "anurag.dutta@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["5G & Beyond", "RF Circuit Design"],
+    "office_location": "BB-211",
+    "office_hours": "1-3pm Tue"
+  },
+  {
+    "id": 34,
+    "first_name": "Roshni",
+    "last_name": "Bala",
+    "email": "roshni.bala@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Smart Grid Communication", "IoT Networks"],
+    "office_location": "BB-212",
+    "office_hours": "3-5pm Mon"
+  },
+  {
+    "id": 35,
+    "first_name": "Dinesh",
+    "last_name": "Chopra",
+    "email": "dinesh.chopra@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Vehicle Dynamics", "Robotics Design"],
+    "office_location": "CC-311",
+    "office_hours": "2-4pm Thu"
+  },
+  {
+    "id": 36,
+    "first_name": "Pooja",
+    "last_name": "Mehta",
+    "email": "pooja.mehta@iiitdm.ac.in",
+    "department": "ME",
+    "specialization": ["Nano Materials", "Advanced Manufacturing"],
+    "office_location": "CC-312",
+    "office_hours": "1-3pm Mon"
+  },
+  {
+    "id": 37,
+    "first_name": "Sanjay",
+    "last_name": "Bhatia",
+    "email": "sanjay.bhatia@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Parallel Computing", "Distributed Systems"],
+    "office_location": "AA-113",
+    "office_hours": "9-11am Tue"
+  },
+  {
+    "id": 38,
+    "first_name": "Shilpa",
+    "last_name": "Varma",
+    "email": "shilpa.varma@iiitdm.ac.in",
+    "department": "CSE",
+    "specialization": ["Human-Computer Interaction", "UX Research"],
+    "office_location": "AA-114",
+    "office_hours": "11-1pm Thu"
+  },
+  {
+    "id": 39,
+    "first_name": "Vikas",
+    "last_name": "Pandey",
+    "email": "vikas.pandey@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Image Processing", "Signal Systems"],
+    "office_location": "BB-213",
+    "office_hours": "10-12am Fri"
+  },
+  {
+    "id": 40,
+    "first_name": "Gayathri",
+    "last_name": "Nambiar",
+    "email": "gayathri.nambiar@iiitdm.ac.in",
+    "department": "ECE",
+    "specialization": ["Optical Communication", "Microwave Engineering"],
+    "office_location": "BB-214",
+    "office_hours": "2-4pm Fri"
+  }
+]
